@@ -1,3 +1,4 @@
+# yet to make input lines dynamic
 lst1 = []
 lst2 = []
 for i in range(1000):
