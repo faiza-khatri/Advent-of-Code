@@ -36,6 +36,6 @@ for section in sections:
     if int(aMod)-aMod == 0 and int(bMod)-bMod == 0:
         total2 += ((aMod*3)+bMod)
 
-print("Answer 1: ", total)
-print("Answer 2: ", total2)
+print("Answer 1: ", int(total))
+print("Answer 2: ", int(total2))
     
